@@ -1,0 +1,10 @@
+.title1 {
+	justify-content: left;
+	align-items: flex-start;
+	padding-left: 10px;
+}
+
+.title2 {
+	justify-content: right;
+	padding-right: 10px;
+}
