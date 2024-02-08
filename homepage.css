@@ -29,6 +29,13 @@ h2{
 	background-color: #0B7189;
 }
 
+.home,
+.home:hover,
+.home:active {
+	background-color: #4E1DC2;
+	color: #616691;
+}
+
 .link-text {
 	color: #FFF;
 }
