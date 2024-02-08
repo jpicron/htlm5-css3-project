@@ -44,7 +44,7 @@ section {
 	border: 2px solid #131112;
 	border-radius: 20px;
 	padding: 0 10px;
-	background-color: #3A7D44;
+	background-color: #190e4f;
 }
 
 footer {
@@ -54,6 +54,7 @@ footer {
 .who-am-i {
 	text-align: center;
 	font-size: 25px;
+	background-color: #32127A;
 }
 
 .external-links {
@@ -62,6 +63,24 @@ footer {
 	width: 100%;
 	justify-content: space-evenly;
 	align-items: center;
+}
+
+.list-element .link-text {
+	color: #FFF;
+	font-style: italic;
+}
+.list-element .link-text:hover {
+	color: #E5BE9E;
+}
+.list-element .link-text:active {
+	color: #E1B07E;
+}
+
+.about,
+.about:hover,
+.about:active {
+	background-color: #4E1DC2;
+	color: #616691;
 }
 
 @media only screen and (min-width: 961px) {
